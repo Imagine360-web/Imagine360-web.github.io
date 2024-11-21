@@ -83,8 +83,8 @@ function selectCompVideo(methodPill, scenePill, n_views, modePill) {
         case 'a serene pond filled with colorful koi fish':
             promptTextBox.text("A serene pond filled with colorful koi fish.");
             break;
-        case 'a serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background.':
-            promptTextBox.text("A serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background..");
+        case 'a serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background':
+            promptTextBox.text("A serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background.");
             break;
         case 'a white SUV driving down a dirt road in a forested mountain valley':
             promptTextBox.text("A white SUV driving down a dirt road in a forested mountain valley.");

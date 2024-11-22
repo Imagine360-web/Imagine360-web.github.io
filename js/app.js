@@ -56,9 +56,6 @@ function selectCompVideo(methodPill, scenePill, n_views, modePill) {
         case 'a large glass display case filled with various electronic devices':
             promptTextBox.text("A large glass display case filled with various electronic devices.");
             break;
-        case 'a large polar bear standing on a snow-covered mound in a winter forest':
-            promptTextBox.text("A large polar bear standing on a snow-covered mound in a winter forest.");
-            break;
         case 'a lighthouse on a cliff overlooking the ocean':
             promptTextBox.text("A lighthouse on a cliff overlooking the ocean.");
             break;

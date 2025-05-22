@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const text = isWx()
         ? "Open in browser for better experience"
-        : "Click any Gallery video to open VR Preview";
+        : "Click Gallery Pano video to open VR Preview";
     const toastElem = document.createElement("div");
     toastElem.id = "toast";
     document.body.append(toastElem);

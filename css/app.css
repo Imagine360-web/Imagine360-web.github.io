@@ -384,7 +384,7 @@ input:checked + .slider:after
 }
 
 .scene-pills > .active {
-  background: #c5e2ff;
+  background: #c5e2ff; 
 }
 /* 
 .mode-pill {

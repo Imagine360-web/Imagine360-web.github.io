@@ -83,8 +83,8 @@ function selectCompVideo(methodPill, scenePill, n_views, modePill) {
         case 'a serene pond filled with colorful koi fish':
             promptTextBox.text("A serene pond filled with colorful koi fish.");
             break;
-        case 'a serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background.':
-            promptTextBox.text("A serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background..");
+        case 'a serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background':
+            promptTextBox.text("A serene snowy landscape with a still lake surrounded by snow-covered trees and mountains in the background.");
             break;
         case 'a white SUV driving down a dirt road in a forested mountain valley':
             promptTextBox.text("A white SUV driving down a dirt road in a forested mountain valley.");
@@ -92,6 +92,15 @@ function selectCompVideo(methodPill, scenePill, n_views, modePill) {
         case 'Stonehenge in Wiltshire, England, under the green Northern Lights':
             promptTextBox.text("Stonehenge in Wiltshire, England, under the green Northern Lights.");
             break;
+
+        case 'a beach area with a body of water in the background':
+            promptTextBox.text("a beach area with a body of water in the background.");
+            break;
+
+        case 'a skier wearing a yellow jacket, double snowboard and black helmet on a snowy slope, amidst a backdrop of leafless trees and a clear blue sky':
+            promptTextBox.text("a skier wearing a yellow jacket, double snowboard and black helmet on a snowy slope, amidst a backdrop of leafless trees and a clear blue sky.");
+            break;
+    
         // case 'l15':
         //     promptTextBox.text("A tranquil mountain lake, crystal clear reflections, majestic mountains, blue sky, black and white photo");
         //     break;
